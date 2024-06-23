@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Wasay Rana</h1>
-<h3 align="center">Pioneering High-Performance Computing | NLP Innovator | Ensemble Modeling Specialist</h3>
+<h3 align="center"> High-Performance Computing | NLP Innovator | Ensemble Modeling Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Optimizing+Performance+at+Scale;Decoding+Language+with+AI;Ensemble+Modeling+for+Complex+Systems" alt="Typing SVG" />
@@ -57,10 +57,10 @@ I'm a passionate computer scientist specializing in High-Performance Computing (
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Wasay-Rana/hpc-nlp-framework">
+  <a href="https://github.com/Wasay-Rana/Game-Of-Life">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=hpc-nlp-framework&theme=github_dark" alt="HPC-NLP Framework" />
   </a>
-  <a href="https://github.com/Wasay-Rana/ensemble-climate-model">
+  <a href="https://github.com/Wasay-Rana/4Bit_CPU">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=ensemble-climate-model&theme=github_dark" alt="Ensemble Climate Model" />
   </a>
 </p>
