@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://your-custom-banner-url.com/banner.png" alt="Wasay Rana - HPC, NLP, and Ensemble Modeling Expert" width="100%"/>
-</div>
-
 <h1 align="center">Wasay Rana</h1>
-<h3 align="center"> High-Performance Computing | NLP Innovator | Ensemble Modeling Specialist</h3>
+<h3 align="center"> High-Performance Computing | NLP Specialist | Ensemble Modeling </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Optimizing+Performance+at+Scale;Decoding+Language+with+AI;Ensemble+Modeling+for+Complex+Systems" alt="Typing SVG" />
@@ -18,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate computer scientist specializing in High-Performance Computing (HPC), Natural Language Processing (NLP), and Ensemble Modeling. With a deep understanding of parallel computing architectures and optimization techniques, I strive to push the boundaries of computational efficiency and scalability.
+I'm a passionate computer scientist specializing in High-Performance Computing (HPC), Natural Language Processing (NLP), and Ensemble Modeling. With a deep understanding of parallel computing architectures including edge devices and optimization techniques, I strive to push the boundaries of computational efficiency and scalability.
 
 - 🔭 Currently working on: Scalable distributed systems for large language models
 - 🌱 Learning: Quantum computing applications in machine learning
@@ -58,10 +54,10 @@ I'm a passionate computer scientist specializing in High-Performance Computing (
 
 <p align="center">
   <a href="https://github.com/Wasay-Rana/Game-Of-Life">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=hpc-nlp-framework&theme=github_dark" alt="HPC-NLP Framework" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=Game-Of-Life&theme=github_dark" alt="GameOfLife" />
   </a>
   <a href="https://github.com/Wasay-Rana/4Bit_CPU">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=ensemble-climate-model&theme=github_dark" alt="Ensemble Climate Model" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wasay-Rana&repo=4Bit_CPU&theme=github_dark" alt="DLD_4Bit_CPU" />
   </a>
 </p>
 
@@ -82,7 +78,7 @@ I'm a passionate computer scientist specializing in High-Performance Computing (
 ## 🎓 Education & Certifications
 
 - B.S. in Computer Engineering - Namal University, 2025
-- NVIDIA Deep Learning Institute - Certified Instructor
+- Machine Learning Specialization - Andrew Ng
 
 ---
 
