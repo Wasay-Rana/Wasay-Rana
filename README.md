@@ -79,6 +79,8 @@ I'm a passionate computer scientist specializing in High-Performance Computing (
 
 - B.S. in Computer Engineering - Namal University, 2025
 - Machine Learning Specialization - Andrew Ng
+- AWS Cloud Practioner (Professional) - Udemy
+- Ethical Hacking - Nptel
 
 ---
 
