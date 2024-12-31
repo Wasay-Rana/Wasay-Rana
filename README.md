@@ -19,7 +19,7 @@ I'm a passionate computer scientist specializing in High-Performance Computing (
 - 🔭 Currently working on: Scalable distributed systems for large language models
 - 🌱 Learning: Quantum computing applications in machine learning
 - 👯 Looking to collaborate on: Open-source HPC projects and NLP research
-- 💬 Ask me about: CUDA optimization, distributed computing, or ensemble methods in ML
+- 💬 Ask me about: Linux Kernel, CUDA optimization, distributed computing, or ensemble methods in ML
 - 📚 Publishing: Occasionally contribute to academic journals in HPC and NLP
 
 ## 💻 Tech Stack
