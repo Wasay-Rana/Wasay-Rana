@@ -1,5 +1,5 @@
 <h1 align="center">Wasay Rana</h1>
-<h3 align="center"> High-Performance Computing | NLP Specialist | Ensemble Modeling </h3>
+<h3 align="center"> High-Performance Computing | AI Agent and LLM Practitioner | Ensemble Modeling </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Optimizing+Performance+at+Scale;Decoding+Language+with+AI;Ensemble+Modeling+for+Complex+Systems" alt="Typing SVG" />
