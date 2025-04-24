@@ -95,7 +95,9 @@ I am a dedicated Computer Scientist with a strong focus on **High-Performance Co
 
 - [Optimizing CUDA Kernels for Maximum Performance](https://yourwebsite.com/blog/optimizing-cuda-kernels)
 - [Scaling NLP Models: Challenges and Solutions](https://yourwebsite.com/blog/scaling-nlp-models)
--  [Ensemble Modeling in Climate Science: A Comprehensive Guide](https://yourwebsite.com/blog/ensemble-modeling-climate-science) ---
+-  [Ensemble Modeling in Climate Science: A Comprehensive Guide](https://yourwebsite.com/blog/ensemble-modeling-climate-science)
+
+---
 
 ## 🎓 Education & Certifications
 
