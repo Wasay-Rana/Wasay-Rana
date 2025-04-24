@@ -27,12 +27,14 @@ I am a dedicated Computer Scientist with a strong focus on **High-Performance Co
 ## 📚 Publications
 
 * **Design and Development of RISC-V Based Virtual Cluster using QEMU Simulator**
-    * Published in: IEEE Xplore (2025) * *Abstract:* This paper presents the design methodology and development process for creating a virtual RISC-V based cluster utilizing the QEMU simulator, facilitating research and development in RISC-V architecture environments.
+    * Published in: IEEE Xplore (2025)
+    * *Abstract:* This paper presents the design methodology and development process for creating a virtual RISC-V based cluster utilizing the QEMU simulator, facilitating research and development in RISC-V architecture environments.
     * [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10838422)
 
 * **Design and Benchmarking of a Low-Cost RISC-V-Based HPC Cluster for Edge Computing**
-    * Published in: IET Publication * *Abstract:* Focuses on the architecture and performance evaluation of an affordable High-Performance Computing (HPC) cluster built with RISC-V processors, specifically targeting edge computing applications.
-    * [Link Pending] ```
+    * Published in: IET Publication
+    * *Abstract:* Focuses on the architecture and performance evaluation of an affordable High-Performance Computing (HPC) cluster built with RISC-V processors, specifically targeting edge computing applications.
+    * [Link Pending]
 
 
 ## 🛠️ Technical Skills
@@ -95,7 +97,7 @@ I am a dedicated Computer Scientist with a strong focus on **High-Performance Co
 
 - [Optimizing CUDA Kernels for Maximum Performance](https://yourwebsite.com/blog/optimizing-cuda-kernels)
 - [Scaling NLP Models: Challenges and Solutions](https://yourwebsite.com/blog/scaling-nlp-models)
--  [Ensemble Modeling in Climate Science: A Comprehensive Guide](https://yourwebsite.com/blog/ensemble-modeling-climate-science)
+- [Ensemble Modeling in Climate Science: A Comprehensive Guide](https://yourwebsite.com/blog/ensemble-modeling-climate-science)
 
 ---
 
