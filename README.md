@@ -14,7 +14,7 @@
 
 ---
 
-Junior Platform Architect at [Phunware (NASDAQ: PHUN)](https://www.phunware.com), building production AI infrastructure at scale. My work spans LLM evaluation pipelines, voice AI systems, multi-agent orchestration, and high-performance computing — from GPU clusters to edge devices. I published research in IEEE Xplore and won First Prize at the National Tech Expo for heterogeneous ISA cluster design.
+Platform Architect at [Phunware (NASDAQ: PHUN)](https://www.phunware.com), building production AI infrastructure at scale. My work spans LLM evaluation pipelines, voice AI systems, multi-agent orchestration, and high-performance computing — from GPU clusters to edge devices. I published research in IEEE Xplore and won First Prize at the National Tech Expo for heterogeneous ISA cluster design.
 
 Currently: engineering agentic AI systems, self-hosted LLM infrastructure, and evaluation frameworks for enterprise workloads.
 
